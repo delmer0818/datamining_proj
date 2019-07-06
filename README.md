@@ -2,7 +2,7 @@
 
 See attached .pdf file for further details.
 
-Data Mining – CECS 632-50 
+Data Mining – CECS 632-50 - University of Louisville
  
 COMPARING PREDICTIVE ALGORITHMS OF LINEAR REGRESSION, NAÏVE BAYESIAN AND k-NEAREST NEIGHBORS ON LOUISVILLE CRIME DATA USING RAPIDMINER 
  
